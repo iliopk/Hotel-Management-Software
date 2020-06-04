@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1496600469 source:c:\users\user\desktop\project2017\booking.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+
+1496599860 c:\users\user\desktop\project2017\booking.h
+	<string>
+
+1495470393 c:\users\user\desktop\project2017\room.h
+	<string>
+	<vector>
+
+1496599903 source:c:\users\user\desktop\project2017\hotel.cpp
+	"Hotel.h"
+	"Room.h"
+	"Booking.h"
+	<iostream>
+	<iomanip>
+
+1495389275 c:\users\user\desktop\project2017\hotel.h
+	<list>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1494967873 c:\users\user\desktop\project2017\roomb.h
+	"RoomA.h"
+
+1494967882 c:\users\user\desktop\project2017\rooma.h
+	"Room.h"
+
+1495035016 c:\users\user\desktop\project2017\roomc.h
+	"Room.h"
+
+1496598556 source:c:\users\user\desktop\project2017\main.cpp
+	<iostream>
+	<string>
+	"Room.h"
+	"Booking.h"
+	"Hotel.h"
+	"RoomA.h"
+	"RoomB.h"
+	"RoomC.h"
+	"RoomD.h"
+	"RoomE.h"
+	<stdlib.h>
+	<list>
+	"time.h"
+	<string>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1496601200 source:c:\users\user\desktop\project2017\room.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+	<iostream>
+
+1495386005 source:c:\users\user\desktop\project2017\rooma.cpp
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495438375 source:c:\users\user\desktop\project2017\roomb.cpp
+	"RoomB.h"
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1496601192 source:c:\users\user\desktop\project2017\roomc.cpp
+	"RoomC.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495386435 source:c:\users\user\desktop\project2017\roomd.cpp
+	"RoomD.h"
+	"Booking.h"
+	"Hotel.h"
+
+1494967852 c:\users\user\desktop\project2017\roomd.h
+	"Room.h"
+	<iostream>
+
+1495387766 source:c:\users\user\desktop\project2017\roome.cpp
+	"RoomE.h"
+	"Booking.h"
+	"Hotel.h"
+
+1496600065 c:\users\user\desktop\project2017\roome.h
+	"Room.h"
+
+1496602744 source:c:\users\user\desktop\c++ xwris gch\booking.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+
+1496599860 c:\users\user\desktop\c++ xwris gch\booking.h
+	<string>
+
+1495470393 c:\users\user\desktop\c++ xwris gch\room.h
+	<string>
+	<vector>
+
+1495389275 c:\users\user\desktop\c++ xwris gch\hotel.h
+	<list>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1496599903 source:c:\users\user\desktop\c++ xwris gch\hotel.cpp
+	"Hotel.h"
+	"Room.h"
+	"Booking.h"
+	<iostream>
+	<iomanip>
+
+1496598556 source:c:\users\user\desktop\c++ xwris gch\main.cpp
+	<iostream>
+	<string>
+	"Room.h"
+	"Booking.h"
+	"Hotel.h"
+	"RoomA.h"
+	"RoomB.h"
+	"RoomC.h"
+	"RoomD.h"
+	"RoomE.h"
+	<stdlib.h>
+	<list>
+	"time.h"
+	<string>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1494967882 c:\users\user\desktop\c++ xwris gch\rooma.h
+	"Room.h"
+
+1494967873 c:\users\user\desktop\c++ xwris gch\roomb.h
+	"RoomA.h"
+
+1495035016 c:\users\user\desktop\c++ xwris gch\roomc.h
+	"Room.h"
+
+1494967852 c:\users\user\desktop\c++ xwris gch\roomd.h
+	"Room.h"
+	<iostream>
+
+1496600065 c:\users\user\desktop\c++ xwris gch\roome.h
+	"Room.h"
+
+1496601200 source:c:\users\user\desktop\c++ xwris gch\room.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+	<iostream>
+
+1495386005 source:c:\users\user\desktop\c++ xwris gch\rooma.cpp
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495438375 source:c:\users\user\desktop\c++ xwris gch\roomb.cpp
+	"RoomB.h"
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1496601192 source:c:\users\user\desktop\c++ xwris gch\roomc.cpp
+	"RoomC.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495386435 source:c:\users\user\desktop\c++ xwris gch\roomd.cpp
+	"RoomD.h"
+	"Booking.h"
+	"Hotel.h"
+
+1495387766 source:c:\users\user\desktop\c++ xwris gch\roome.cpp
+	"RoomE.h"
+	"Booking.h"
+	"Hotel.h"
+
+1496602744 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\booking.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+
+1496599860 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\booking.h
+	<string>
+
+1495470393 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\room.h
+	<string>
+	<vector>
+
+1495389275 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\hotel.h
+	<list>
+	<string>
+	<vector>
+	<stdlib.h>
+
+1496604614 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\hotel.cpp
+	"Hotel.h"
+	"Room.h"
+	"Booking.h"
+	<iostream>
+	<iomanip>
+
+1496598556 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\main.cpp
+	<iostream>
+	<string>
+	"Room.h"
+	"Booking.h"
+	"Hotel.h"
+	"RoomA.h"
+	"RoomB.h"
+	"RoomC.h"
+	"RoomD.h"
+	"RoomE.h"
+	<stdlib.h>
+	<list>
+	"time.h"
+	<string>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1494967882 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\rooma.h
+	"Room.h"
+
+1494967873 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomb.h
+	"RoomA.h"
+
+1495035016 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomc.h
+	"Room.h"
+
+1494967852 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomd.h
+	"Room.h"
+	<iostream>
+
+1496603191 c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roome.h
+	"Room.h"
+
+1496601200 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\room.cpp
+	"Booking.h"
+	"Room.h"
+	"Hotel.h"
+	<iostream>
+
+1495386005 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\rooma.cpp
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495438375 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomb.cpp
+	"RoomB.h"
+	"RoomA.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1496601192 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomc.cpp
+	"RoomC.h"
+	"Booking.h"
+	"Hotel.h"
+	<iostream>
+
+1495386435 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roomd.cpp
+	"RoomD.h"
+	"Booking.h"
+	"Hotel.h"
+
+1495387766 source:c:\users\user\desktop\5359_5292_5297_project_2\project_cpp_2017\roome.cpp
+	"RoomE.h"
+	"Booking.h"
+	"Hotel.h"
+
